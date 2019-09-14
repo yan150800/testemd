@@ -4,3 +4,5 @@
 <p style='color:red'> olaaaa </p>
 
 <font color='green'> testeee </font>
+
+<span style='color: #76EE00;'>Easy</span>
