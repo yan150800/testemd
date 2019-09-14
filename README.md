@@ -6,5 +6,5 @@
 
  # <font color='blue'> {{test blue color font}} </font>
  
- <p style='color:blue'> rerads </p>
+ <p style='color:#f002'> rerads </p>
 
