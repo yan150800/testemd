@@ -1,3 +1,5 @@
-#<span style='color:red'>testemd</span>
+#testemd
 
+```html
 <font color='blue'>test blue color font</font>
+```
