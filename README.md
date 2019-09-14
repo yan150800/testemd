@@ -1,10 +1,2 @@
-# testemd
-
-## testando
-### testando
-#### t
-
-<font color='gree'> {{test blue color font}} </font>
- 
- <p style='color:#f002'> rerads </p>
+![[embed url=https://www.youtube.com/watch?v=j55fHUJqtyw&t=1064s]]
 
